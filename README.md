@@ -8,4 +8,4 @@
 
 ### Paddle
 
-![](/Images/ppo_paddle.gif)
+![](/Images/sac_paddle.gif)
