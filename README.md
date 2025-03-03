@@ -1,22 +1,20 @@
 # rl-mujoco-tennis
 
-## Results
-
-### Humanoid-v5
-
+## Humanoid-v5
 ![](/Images/ppo_humanoid.gif)
 
-### Paddle
-
+## BallBounce-v1
 ![](/Images/sac_paddle.gif)
+
+## Results
+Hardware: Google Colab T4
 
 | Simulation Type | Model Type | Average Reward | Training Time | Total Training Steps |
 |-----------------|------------|----------------|---------------|----------------------|
 | Humanoid-v5     | PPO        |                |               |                      |
 | Humanoid-v5     | SAC        |                |               |                      |
-| BounceBall-v1   | PPO        |                |               |                      |
-| BounceBall-v1   | SAC        |                |               |                      |
-| BounceBall-v1   | PPO        |                |               |                      |
+| BallBounce-v1   | PPO        |                |               |                      |
+| BallBounce-v1   | SAC        |                |               |                      |
 | WallBall-v1     | SAC        |                |               |                      |
 | WallBall-v1     | PPO        |                |               |                      |
 | TennisWall-v1   | PPO        |                |               |                      |
