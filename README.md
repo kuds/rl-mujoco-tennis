@@ -12,12 +12,12 @@
 
 | Simulation Type | Model Type | Average Reward | Training Time | Total Training Steps |
 |-----------------|------------|----------------|---------------|----------------------|
-| Humanoid-v5     | PPO        |                |               | 2,600,000            |
-| Humanoid-v5     | SAC        |                |               | 600,000              |
-| BounceBall-v1   | PPO        |                |               | 5,000,000            |
-| BounceBall-v1   | SAC        |                |               | 5,000,000            |
-| BounceBall-v1   | PPO        |                |               | 5,000,000            |
-| WallBall-v1     | SAC        |                |               | 5,000,000            |
-| WallBall-v1     | PPO        |                |               | 5,000,000            |
-| TennisWall-v1   | PPO        |                |               | 5,000,000            |
-| TennisWall-v1   | PPO        |                |               | 5,000,000            |
+| Humanoid-v5     | PPO        |                |               |                      |
+| Humanoid-v5     | SAC        |                |               |                      |
+| BounceBall-v1   | PPO        |                |               |                      |
+| BounceBall-v1   | SAC        |                |               |                      |
+| BounceBall-v1   | PPO        |                |               |                      |
+| WallBall-v1     | SAC        |                |               |                      |
+| WallBall-v1     | PPO        |                |               |                      |
+| TennisWall-v1   | PPO        |                |               |                      |
+| TennisWall-v1   | PPO        |                |               |                      |
