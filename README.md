@@ -3,8 +3,8 @@
 ## Humanoid-v5
 ![](/Images/sac_humanoid.gif)
 
-## BallBounce-v1
-![](/Images/sac_paddle.gif)
+## Ball Balance
+![](/Images/sac_ball_balance.gif)
 
 ## Results
 Hardware: Google Colab T4
@@ -13,6 +13,8 @@ Hardware: Google Colab T4
 |-----------------|------------|----------------|---------------|----------------------|
 | Humanoid-v5     | PPO        |                |               |                      |
 | Humanoid-v5     | SAC        | 6579.66        | 4:41:52       | 3,800,000            |
+| Ball Balance    | PPO        | 751            | 1:58:54       | 2,000,000            |
+| Ball Balance    | SAC        | 751            | 1:52:23       | 2,000,000            |
 | BallBounce-v1   | PPO        |                |               |                      |
 | BallBounce-v1   | SAC        |                |               |                      |
 | WallBall-v1     | SAC        |                |               |                      |
