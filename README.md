@@ -19,7 +19,7 @@ Hardware: Google Colab T4
 | Ball Balance    | PPO        | 751            | 1:58:54       | 2,000,000            |
 | Ball Balance    | SAC        | 751            | 1:52:23       | 2,000,000            |
 | BallBounce-v1   | PPO        |                |               |                      |
-| BallBounce-v1   | SAC        | 152.60         | 0:56:36       | 1,000,000            |
+| BallBounce-v1   | SAC        | 7.50           | 1:53:48       | 2,000,000            |
 | WallBall-v1     | SAC        |                |               |                      |
 | WallBall-v1     | PPO        |                |               |                      |
 | TennisWall-v1   | PPO        |                |               |                      |
